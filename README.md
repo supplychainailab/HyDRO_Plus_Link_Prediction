@@ -3,9 +3,9 @@
 
 ## 📖 Overview
 
-HyDRO+ builds upon the original HyDRO framework, with several algorithmic improvements and mathematical enhancements. For more details on the foundational method and additional insights, please refer to our HyDRO paper and GitHub repository. 
+HyDRO+ builds upon the original [![HyDRO](https://github.com/Yunbo-max/HyDRO)] framework, with several algorithmic improvements and mathematical enhancements. For more details on the foundational method and additional insights, please refer to our HyDRO paper and GitHub repository. 
 
-[![Github](https://github.com/Yunbo-max/HyDRO)]
+
 
 2. **HyDRO+**: Efficient Privacy-Preserving Link Prediction  
    [![Paper](https://img.shields.io/badge/arXiv-2503.12156-b31b1b.svg)](https://arxiv.org/html/2503.12156v1)
